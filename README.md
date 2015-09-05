@@ -1,9 +1,9 @@
 CameraUtility
 ======================
 
-**Version:** 2.0.1.1
+**Version:** 2.0.1.2
 
-**Source:** http://pastebin.com/yH9bDMjQ ([release post](http://jbbs.shitaraba.net/bbs/read.cgi/game/55179/1439701267/212))
+**Source:** upkiss2961 ([release post](http://jbbs.shitaraba.net/bbs/read.cgi/game/55179/1439701267/212))
 
 **Author:** BBSID k8PzhOFo0
 
