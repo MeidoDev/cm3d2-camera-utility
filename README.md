@@ -1,11 +1,11 @@
 CameraUtility
 ======================
 
-**Version:** 2.0.1.2
+**Version:** 2.0.1.2-20160103
 
-**Source:** [Github](https://github.com/k8PzhOFo0/CM3D2CameraUtility.Plugin/releases) ([release post](http://jbbs.shitaraba.net/bbs/read.cgi/game/55179/1439701267/212))
+**Source:** [Pastebin](http://pastebin.com/yAUXC30u) ([Original source](https://github.com/k8PzhOFo0/CM3D2CameraUtility.Plugin/releases))
 
-**Author:** [k8PzhOFo0](https://github.com/k8PzhOFo0)
+**Original Author:** [k8PzhOFo0](https://github.com/k8PzhOFo0)
 
 This plugin adds camera ehancements and maid positioning functions. Alternative keybinds are used to avoid conflicts when the game is running in VR mode. This plugin is regularly uploaded to Uppervolta, so if you got it from there you don't need to get this version.
 
