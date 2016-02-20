@@ -1,7 +1,7 @@
 CameraUtility
 ======================
 
-**Version:** 2.0.1.2-20160103
+**Version:** 2.0.1.2-20160220
 
 **Source:** [Pastebin](http://pastebin.com/yAUXC30u) ([Original source](https://github.com/k8PzhOFo0/CM3D2CameraUtility.Plugin/releases))
 
